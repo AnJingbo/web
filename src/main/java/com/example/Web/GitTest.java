@@ -4,5 +4,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("shou dong");
         System.out.println("shou dong2");
+        System.out.println("hot-fix1");
     }
 }
